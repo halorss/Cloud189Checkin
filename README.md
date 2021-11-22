@@ -1,7 +1,7 @@
 # Cloud189Checkin
 天翼云盘自动签到服务
 
-## 配置说明
+## 配置cao说明
 
 编辑 `appsettings.json` 文件内的以下配置
 ```json
